@@ -1,16 +1,76 @@
-# React + Vite
+ # 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern Personal Portfolio Website built using **React.js** and **Vite** as part of the **CODSOFT Frontend Development Internship - Task 3**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Responsive design
+- Professional Home section
+- About Me section
+- Skills section
+- Projects showcase
+- Resume download option
+- Contact section
+- GitHub & LinkedIn links
+- Clean and modern UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── assets/
+ ├── components/
+ ├── data/
+ ├── styles/
+ ├── App.jsx
+
+public/
+```
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots here after deployment.)
+
+---
+
+## 🔗 Live Demo
+
+Coming Soon
+
+---
+
+## 👩‍💻 Author
+
+**Hasini Krishna**
+
+GitHub:
+https://github.com/hasinikrishna-debug
+
+LinkedIn:
+https://www.linkedin.com/in/hasini-krishna-402307328/
+
+---
+
+## ⭐ Internship
+
+This project was developed for
+
+**CODSOFT Frontend Development Internship**
+
+Task 3 – Personal Portfolio Website
